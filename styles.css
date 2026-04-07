@@ -13,9 +13,9 @@
 
 /* ===== VARIABLES ===== */
 :root {
-  --red:    #e3262e;
-  --red-dk: #b81f25;
-  --navy:   #0b2b3c;
+  --red:    #006651;
+  --red-dk: #004d3d;
+  --navy:   #004d3d;
   --dark:   #111;
   --gray:   #f5f2ee;
   --white:  #ffffff;
@@ -518,7 +518,7 @@ img { max-width: 100%; display: block; }
 .contact-form textarea:focus {
   outline: none;
   border-color: var(--red);
-  box-shadow: 0 0 0 3px rgba(227,38,46,0.12);
+  box-shadow: 0 0 0 3px rgba(0,102,81,0.12);
 }
 
 .contact-form button {
